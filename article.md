@@ -1,0 +1,100 @@
+# Which Mythical Creature Are You? Personality Assessments and Project Management Personality assessments are the corporate world's version of a
+choose-your-own-adventure book. You take a quick quiz, turn to page 28,
+and...
+
+::::### Which Mythical Creature Are You? Personality Assessments and Project Management 
+
+Personality assessments are the corporate world's version of a
+choose-your-own-adventure book. You take a quick quiz, turn to page 28,
+and find out if you succeed in becoming an "INTJ" or a "Pioneering
+Trailblazer." But do these assessments actually tell us anything
+meaningful about ourselves?
+
+
+<figcaption>Photo by <a
+href="https://unsplash.com/@ratlady?utm_source=medium&amp;utm_medium=referral"
+class="markup--anchor markup--figure-anchor"
+data-href="https://unsplash.com/@ratlady?utm_source=medium&amp;utm_medium=referral"
+rel="photo-creator noopener" target="_blank">Deborah L Carlson</a> on <a
+href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral"
+class="markup--anchor markup--figure-anchor"
+data-href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral"
+rel="photo-source noopener" target="_blank">Unsplash</a></figcaption>
+
+
+From the tried-and-true Myers-Briggs to the delightfully quirky Business
+Chemistry model, there are many ways to categorize our idiosyncrasies.
+The results were equal parts enlightening and hilarious.
+
+Let's start with the classic Myers-Briggs Type Indicator (MBTI). This
+personality assessment has been around since the 1940s, and it's the
+go-to tool for many an HR department. The premise is simple: you're
+either an Introvert or an Extrovert, a Sensor or an Intuitive, a Thinker
+or a Feeler, and a Judger or a Perceiver. Depending on your combination
+of these four dichotomies, you end up with one of 16 possible
+personality types.
+
+[**Myers-Briggs Type Indicator - Wikipedia**\
+*The Myers-Briggs Type Indicator ( MBTI) is a pseudoscientific
+self-report questionnaire that claims to
+indicate...*en.wikipedia.org](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#/media/File:MyersBriggsTypes.png "https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#/media/File:MyersBriggsTypes.png")[](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#/media/File:MyersBriggsTypes.png)
+In theory, this should give you deep insights into your inner workings.
+But in practice, it often feels more like a horoscope --- vague enough
+to apply to just about anyone.
+
+The MBTI isn't the only game in town when it comes to personality
+profiling. The DISC assessment divides people into four primary
+behavioral styles: Dominance, Influence, Steadiness, and
+Conscientiousness. The beauty of DISC is that it's a little more
+concrete than the abstract MBTI types. You're either a "D" who loves to
+take charge, or a "C" who's all about attention to detail.
+
+But the real fun comes when you start mixing and matching these styles.
+Imagine a team made up of nothing but high-D "let's get it done" types.
+Sounds like a recipe for a lot of shouting and not much actual progress,
+doesn't it? That's why it's crucial to have a healthy balance of
+personalities to keep each other in check.
+
+And let's not forget the delightfully eccentric Business Chemistry model
+from Deloitte. This one takes the concept of personality blends to a
+whole new level, with a color wheel of nearly 80 different character
+types. You could be a "Pioneer," a "Driver," a "Integrator," or (my
+favorite) a "Guardian."
+
+The best part about Business Chemistry is the way it tries to give you
+actionable insights. Instead of just telling you what kind of person you
+are, it also highlights how to best support and motivate someone with a
+different style.
+
+Oh, and don't forget that mythical animal they assign you --- I'm
+apparently a "Griffin" and, as a Griffin, I should be given "chances to
+move around, change up the scene, \[and\] think virtual safaris and
+karaoke." Good to know!
+
+Of course, the real value of these personality assessments lies not in
+the labels themselves, but in the self-awareness and team dynamics they
+can uncover. When we understand our own tendencies and blindspots, we
+can start to communicate more effectively and play to each other's
+strengths. And when a project team is firing on all cylinders, magic can
+happen.
+
+We should take the results with a grain of salt. The true value of these
+assessments lies in the self-reflection and open communication they can
+foster. When we're willing to be vulnerable and admit our quirks and
+preferences, it paves the way for more effective collaboration. And
+isn't that what project management is all about?
+
+### Related Stories
+- [[Navigating the Virtual Team Landscape for Project
+  Management](https://medium.com/@kylejones_47003/navigating-the-virtual-team-landscape-for-project-management-9b5afd5a57a6)]
+- [[Ropes Courses, Trivia Nights, and the Elusive Art of Team
+  Building](https://medium.com/@kylejones_47003/ropes-courses-trivia-nights-and-the-elusive-art-of-team-building-cf41f7f4d4cb)]
+- [[Communication haze: How to collaborate in project
+  management](https://medium.com/@kylejones_47003/communication-haze-how-to-collaborate-in-project-management-0b65a8b64e04)]
+::::::::::::By [Kyle Jones](https://medium.com/@kyle-t-jones) on
+[August 28, 2024](https://medium.com/p/ead0c1255882).
+
+[Canonical
+link](https://medium.com/@kyle-t-jones/which-mythical-creature-are-you-personality-assessments-and-project-management-ead0c1255882)
+
+Exported from [Medium](https://medium.com) on November 10, 2025.
